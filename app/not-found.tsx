@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <main className="simple-page wrap"><div className="eyebrow">۴۰۴ — این قاب خالی‌ست</div><h1>صفحه‌ای پیدا نشد.</h1><p>شاید مسیر دیگری برای گشتن مناسب‌تر باشد.</p><Link href="/" className="btn">بازگشت به خانه</Link></main>}
